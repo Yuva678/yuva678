@@ -1,6 +1,5 @@
-## Hi there 👋 
 I am Yuvaraj
-<!--# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>Improving my Student Utility Web App by adding more useful tools and enhancing UI/UX<br>Exploring backend development to convert my projects into full-stack applications<br>👯 I’m looking to collaborate on<br>Web development projects (frontend or beginner full-stack)<br>Open-source projects related to productivity tools or user safety<br>🤝 I’m looking for help with<br>Backend development (Node.js, APIs, databases)<br>Improving project scalability and performance<br>Writing clean and efficient DSA solutions<br>🌱 I’m currently learning<br>Data Structures & Algorithms<br>Backend Development (Node.js, APIs)<br>Writing better, optimized code<br>💬 Ask me about<br>Python basics<br>Frontend development (HTML, CSS, JavaScript)<br>Building beginner-friendly real-world projects<br>⚡ Fun fact<br>I enjoy building projects that solve real-life problems, like productivity tools and online safety systems
 
 
@@ -17,6 +16,4 @@ I am Yuvaraj
 ---
 [![](https://komarev.com/ghpvc/?username=yuva678&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
